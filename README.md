@@ -11,10 +11,10 @@
     npm install
     
     [Release]
-    cargo tauri build (release)
+    cargo tauri build
     
     [Debug]
-    cargo tauri build --debug (obviously)
+    cargo tauri build --debug
 
 ## To run:
     cargo tauri dev
