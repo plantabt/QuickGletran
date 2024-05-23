@@ -2,8 +2,9 @@
 
 ## Features:
     1. Topmost window.
-    2. Simplify original interface.
-    3. Default Trans settings is Auto-Detected -> Chinese.
+    2. Tiny window size is [900x320]
+    3. Simplify original interface.
+    4. Default Trans settings is Auto-Detected -> Chinese.
 
 ## How to build:
     [release]
