@@ -2,11 +2,14 @@
 
 
 ## How to build
-### cargo tauri build (release)
-### cargo tauri build --debug (obviously)
+    [release]
+    cargo tauri build (release)
+    [debug]
+    cargo tauri build --debug (obviously)
 
 ## To run
-### cargo tauri dev
+    cargo tauri dev
+
 
 ## Recommended IDE Setup
 
