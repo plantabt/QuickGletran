@@ -7,9 +7,13 @@
     4. Default Trans settings is Auto-Detected -> Chinese.
 
 ## How to build:
-    [release]
+    [Init]
+    npm install
+    
+    [Release]
     cargo tauri build (release)
-    [debug]
+    
+    [Debug]
     cargo tauri build --debug (obviously)
 
 ## To run:
