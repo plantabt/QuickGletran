@@ -1,15 +1,17 @@
 # A Goole Translate GUI interface program developed with Rust + Tauri.
+
+## Features:
     1. Topmost window.
     2. Simplify original interface.
     3. Default Trans setting is Auto-Detected => Chinese.
 
-## How to build
+## How to build:
     [release]
     cargo tauri build (release)
     [debug]
     cargo tauri build --debug (obviously)
 
-## To run
+## To run:
     cargo tauri dev
 
 
