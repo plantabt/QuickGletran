@@ -1,5 +1,7 @@
 # A Goole Translate GUI interface program developed with Rust + Tauri.
-
+    1. Topmost window.
+    2. Simplify original interface.
+    3. Default Trans setting is Auto-Detected => Chinese.
 
 ## How to build
     [release]
