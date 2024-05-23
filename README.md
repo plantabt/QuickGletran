@@ -19,6 +19,8 @@
 ## To run:
     cargo tauri dev
 
+## Screenshot
+![quickgletrans](https://github.com/plantabt/QuickGletran/assets/139223769/4efa34cd-59ae-4188-a93a-4d5c6d7711cc)
 
 ## Recommended IDE Setup
 
