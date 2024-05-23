@@ -22,6 +22,6 @@
 ## Screenshot:
 ![quickgletrans](https://github.com/plantabt/QuickGletran/assets/139223769/4efa34cd-59ae-4188-a93a-4d5c6d7711cc)
 
-## Recommended IDE Setup
+## Recommended IDE Setup:
 
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
